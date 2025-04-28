@@ -6,8 +6,6 @@ Soy un apasionado de la **inteligencia artificial** y la **innovación tecnológ
 - Líder con 3 años de experiencia en creación de producto y tecnología. He liderado la creación, innovación y desarrollo de productos tecnológicos como [Zalee](https://zaleeapp.com/) y [Venya](https://venyaai.vercel.app/).
 - Speaker y creador de contenido divulgando progresos, tecnologías y enseñanzas relacionadas con la creación e innovación de productos. 
 
-Actualmente, estoy estudiando **Ingeniería de Sistemas** y **Física** en la Universidad Nacional de Colombia. Mi visión es combinar estos conocimientos para crear tecnologías que expandan las fronteras del conocimiento humano.  
-
 ### 🔭 Proyectos actuales  
 - **Zalee**: Plataforma de gestión de eventos impulsada por IA, optimizando el flujo de trabajo de organizadores de eventos de fiesta.  
 - **Venya**: Solución de automatización de atención al cliente y ventas mediante chatbots de IA personalizados.  
